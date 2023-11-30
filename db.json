@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "a",
+      "image": "https://cdn.stocksnap.io/img-thumbs/280h/maple-leaf_3ZJGIUXO8H.jpg",
+      "price": 15.96,
+      "id": 8
+    },
+    {
+      "name": "instant ramen",
+      "image": "https://static.nycgovparks.org/images/pagefiles/183/Sweetgum-yellow-full-10-17-22-Central-Park-large__63505eee755fc.jpg",
+      "price": 15.66,
+      "id": 9
     }
   ]
 }
